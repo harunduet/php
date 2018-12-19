@@ -1,10 +1,8 @@
 {
-  "module":"MODULE_STUDENT_ATTENDANCE",
-   "request_type":"REQUEST_TYPE_GET_LATEST_REPORT",
-  "model": [
-    { "school_id": 1, "school_name": "Post 1" },
-    { "school_id": 2, "school_name": "Post 2" },
-    { "school_id": 3, "school_name": "Post 3" }
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
