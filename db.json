@@ -1,0 +1,18 @@
+{  
+   "module":"MODULE_STUDENT_ATTENDANCE",
+   "request_type":"REQUEST_TYPE_GET_LATEST_REPORT",
+   "success":"1",
+   "message":"Successful",
+   "total":"28",
+   "additionalOne":null,
+   "model":[  
+      {  
+         "school_id":"48775026-5593-inst-993f-27ba037b41b8",
+         "school_name":"Bilaspur",
+         "school_code":"11",
+         "school_grade":"Two",
+         "date":"09-11-2017",
+         "attendance_percentage":"50.0000"
+      }
+   ]
+}
