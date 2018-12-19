@@ -1,6 +1,6 @@
 {
   "module":"MODULE_STUDENT_ATTENDANCE",
-   "request_type":"REQUEST_TYPE_GET_LATEST_REPORT"
+   "request_type":"REQUEST_TYPE_GET_LATEST_REPORT",
   "posts": [
     { "id": 1, "title": "Post 1" },
     { "id": 2, "title": "Post 2" },
